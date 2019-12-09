@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://4aprilie1944.ro/sitemap.xml
