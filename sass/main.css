@@ -7143,6 +7143,13 @@ a.text-dark:hover, a.text-dark:focus {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5; }
 
+.blog-header-x {
+  background-image: linear-gradient(90deg, #002B7F 33.33%, #FCD116 33.33%, #FCD116 66.66%, #CE1126 66.66%);
+  background-size: 100% 2px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  border-bottom: 1px solid #fff; }
+
 .blog-header-logo {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
   font-size: 2.25rem; }
