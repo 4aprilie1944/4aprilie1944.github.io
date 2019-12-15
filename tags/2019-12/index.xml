@@ -6,31 +6,10 @@
     <description>Recent content in 2019-12 on 4 aprilie 1944</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
-    <lastBuildDate>Sat, 14 Dec 2019 15:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://4aprilie1944.ro/tags/2019-12/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Antena3 - 70 de ani de la bombardarea Bucureștiului</title>
-      <link>http://4aprilie1944.ro/articles/2014/4/4/antena3-70-de-ani-de-la-bombardarea-bucurestiului/</link>
-      <pubDate>Sat, 14 Dec 2019 15:00:00 +0000</pubDate>
-      
-      <guid>http://4aprilie1944.ro/articles/2014/4/4/antena3-70-de-ani-de-la-bombardarea-bucurestiului/</guid>
-      <description>{{ .Site.Params.event.passedYears }} de ani de la bombardarea Bucureștiului 4 Aprilie, 2014 de Antena3
- În urmă cu exact {{ .Site.Params.event.passedYears }} de ani, bucureştenii descopereau ce înseamnă să stea sub o ploaie de bombe. 300 de bombardiere americane şi-au lansat încărcătura mortală asupra Capitalei, în după-amiaza zilei de 4 aprilie 1944, cel mai crunt bombardament la care a fost supus vreodată Bucureştiul.
- Aproape 3.000 de oameni au murit în acea zi fatidică.</description>
-    </item>
-    
-    <item>
-      <title>Bombardarea Bucureștiului din 4 Aprilie 1944, povestită la Secvențial de istoricul Dinu C. Giurescu</title>
-      <link>http://4aprilie1944.ro/articles/2014/3/30/dinu-c-giurescu-secvential-bombardarea-bucurestiului-din-4-aprilie-1944/</link>
-      <pubDate>Sat, 14 Dec 2019 13:00:00 +0000</pubDate>
-      
-      <guid>http://4aprilie1944.ro/articles/2014/3/30/dinu-c-giurescu-secvential-bombardarea-bucurestiului-din-4-aprilie-1944/</guid>
-      <description>Bombardarea Bucureștiului din 4 Aprilie 1944, povestită la Secvențial de Acad. Prof. Univ. Dr. Dinu C. Giurescu 30 Martie, 2014 de Antena3
- Sursă: Video TV Romania</description>
-    </item>
     
     <item>
       <title>Bucureștiul după marele bombardament din 4 Aprilie 1944</title>
@@ -38,18 +17,8 @@
       <pubDate>Sat, 14 Dec 2019 12:00:00 +0000</pubDate>
       
       <guid>http://4aprilie1944.ro/articles/2019/12/14/alexandru-arma-bucurestiul-dupa-marele-bombardament-din-4-aprilie-1944/</guid>
-      <description>Bucureștiul după marele bombardament din 4 Aprilie 1944 14 Decembrie, 2019 de Alexandru Armă, istoric militar
-Bucureștiul și-a revenit greu după cel mai grav atac aerian din istoria sa. Publicistul Mihail Sebastian nota în jurnalul său, pe 8 aprilie 1944: ,,Patru zile după bomardament orașul este încă în plină nebunie. Buimăceala din primele clipe (nimeni nu știa exact ce este – nimeni nu-i venea să creadă...) s-a transformat în panică. Toată lumea fuge sau vrea să fugă.</description>
-    </item>
-    
-    <item>
-      <title>4 Aprilie 1944 – O zi care nu trebuie uitată</title>
-      <link>http://4aprilie1944.ro/articles/2019/12/14/alexandru-amititeloaie-4-aprilie-1944-o-zi-care-nu-trebuie-uitata/</link>
-      <pubDate>Sat, 14 Dec 2019 11:00:00 +0000</pubDate>
-      
-      <guid>http://4aprilie1944.ro/articles/2019/12/14/alexandru-amititeloaie-4-aprilie-1944-o-zi-care-nu-trebuie-uitata/</guid>
-      <description>4 Aprilie 1944 – O zi care nu trebuie uitată 4 Aprilie, 2019 de Conf. Univ. Dr. Alexandru Amititeloaie
- Sursă: Apollonia TV</description>
+      <description>&lt;p&gt;Bucureștiul și-a revenit greu după cel mai grav atac aerian din istoria sa. Publicistul Mihail Sebastian nota în jurnalul său, pe 8 aprilie 1944: ,,Patru zile după bomardament orașul este încă în plină nebunie. Buimăceala din primele clipe (nimeni nu știa exact ce este – nimeni nu-i venea să creadă...) s-a transformat în panică. Toată lumea fuge sau vrea să fugă. Pe străzi, la fiecare pas camioane, căruțe, trăsuri cu tot felul de boarfe, ca într-un imens și tragi-comic Sfântu Gheorghe. Azi au început să circule, pe ici, pe colo, câteva vagoane de tramvai. Majoritatea liniilor sunt încă blocate. Jumătate din oraș n-are lumină. Apă nu e. Caloriferele nu funcționează. Șiruri întregi de femei și copii cu găleți de apă vin de la diverse puțuri sau cișmele, unde se face coadă. Într-o oră (și nu cred că bombardamentul propriu-zis a durat o oră), un oraș de un milion de locuitori a fost paralizat în cele mai simple funcțiuni de viață”&lt;sup&gt;1&lt;/sup&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -58,8 +27,8 @@ Bucureștiul și-a revenit greu după cel mai grav atac aerian din istoria sa. P
       <pubDate>Fri, 13 Dec 2019 10:00:00 +0000</pubDate>
       
       <guid>http://4aprilie1944.ro/articles/2019/12/13/alexandru-arma-4-aprilie-1944-primul-bombardament-american-asupra-bucurestiului/</guid>
-      <description>4 Aprilie 1944 – Primul bombardament american asupra Bucureștiului 13 Decembrie, 2019 de Alexandru Armă, istoric militar
-În ziua de 4 aprilie, odată cu îmbunătăţirea situaţiei meteo, este declanşat cel de-al treilea raid al aviaţiei americane asupra teritoriului României şi primul al ofensivei aeriene din anul 1944. Trebuie menţionat că în perioada 20-25 martie 1944, în schimbul lor de mesaje, generalul Maitland Wilson, comandantul forţelor aliate din Mediterană, îi ceruse mareşalului Antonescu să retragă imediat trupele româneşti din Frontul de Est şi să accepte capitularea.</description>
+      <description>&lt;p&gt;În ziua de 4 aprilie, odată cu îmbunătăţirea situaţiei meteo, este declanşat cel de-al treilea raid al aviaţiei americane asupra teritoriului României şi primul al ofensivei aeriene din anul 1944. Trebuie menţionat că în perioada 20-25 martie 1944, în schimbul lor de mesaje, generalul Maitland Wilson, comandantul forţelor aliate din Mediterană, îi ceruse mareşalului Antonescu să retragă imediat trupele româneşti din Frontul de Est şi să accepte capitularea. Întrucât până la data de 28 martie 1944, data  ultimei radiograme, partea română nu dăduse nici un răspuns, a fost lansat ordinul începerii bombardamenelor aeriene asupra rafinăriilor de petrol şi căilor de comunicaţie din România, cu scopul sprijinirii ofensivei sovietice, care în acel moment se desfăşura în nordul Moldovei şi Basarabiei.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
