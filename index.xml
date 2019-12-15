@@ -17,9 +17,9 @@
       <pubDate>Sat, 14 Dec 2019 15:00:00 +0000</pubDate>
       
       <guid>http://4aprilie1944.ro/articles/2014/4/4/antena3-70-de-ani-de-la-bombardarea-bucurestiului/</guid>
-      <description>75 de ani de la bombardarea Bucureștiului 4 Aprilie, 2014 de Antena3
- În urmă cu exact 75 de ani, bucureştenii descopereau ce înseamnă să stea sub o ploaie de bombe. 300 de bombardiere americane şi-au lansat încărcătura mortală asupra Capitalei, în după-amiaza zilei de 4 aprilie 1944, cel mai crunt bombardament la care a fost supus vreodată Bucureştiul.
- Aproape 3.000 de oameni au murit în acea zi fatidică. A fost primul bombardament dintr-o serie de 17, care s-au încheiat în istorica zi de 23 august.</description>
+      <description>{{ .Site.Params.event.passedYears }} de ani de la bombardarea Bucureștiului 4 Aprilie, 2014 de Antena3
+ În urmă cu exact {{ .Site.Params.event.passedYears }} de ani, bucureştenii descopereau ce înseamnă să stea sub o ploaie de bombe. 300 de bombardiere americane şi-au lansat încărcătura mortală asupra Capitalei, în după-amiaza zilei de 4 aprilie 1944, cel mai crunt bombardament la care a fost supus vreodată Bucureştiul.
+ Aproape 3.000 de oameni au murit în acea zi fatidică.</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@ Bucureștiul și-a revenit greu după cel mai grav atac aerian din istoria sa. P
       
       <guid>http://4aprilie1944.ro/articles/2011/12/22/ioan-scurtu-4-aprilie-1944-nu-trebuie-uitat/</guid>
       <description>4 Aprilie 1944 – Nu trebuie uitat 22 Decembrie, 2011 de Prof. Univ. Dr. Ioan Scurtu
-Au trecut 75 de ani de la marea tragedie din 4 aprilie 1944, când Bucureştii, capitala României, au fost victima unui masiv bombardament al aviaţiei americane. Au fost vizate ţinte civile, cu deosebire zona Gării de Nord, dar şi partea centrală a oraşului. Ele nu aveau o justificare militară, deoarece frontul se afla departe, la peste 300 km, pe linia Iaşi-Chişinău, iar luptele încetaseră de la sfârşitul lunii martie.</description>
+Au trecut {{ .Site.Params.event.passedYears }} de ani de la marea tragedie din 4 aprilie 1944, când Bucureştii, capitala României, au fost victima unui masiv bombardament al aviaţiei americane. Au fost vizate ţinte civile, cu deosebire zona Gării de Nord, dar şi partea centrală a oraşului. Ele nu aveau o justificare militară, deoarece frontul se afla departe, la peste 300 km, pe linia Iaşi-Chişinău, iar luptele încetaseră de la sfârşitul lunii martie.</description>
     </item>
     
   </channel>
