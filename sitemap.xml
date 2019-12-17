@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2019/</loc>
-    <lastmod>2019-12-16T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/tags/2019-12/</loc>
-    <lastmod>2019-12-16T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/tags/2019-12-16/</loc>
+    <loc>http://4aprilie1944.ro/articles/2019-12/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
@@ -28,32 +18,22 @@
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/</loc>
+    <loc>http://4aprilie1944.ro/article/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/2019/12/16/alexandru-arma-ziua-in0care-s_a_dezlantuit_infernul/</loc>
+    <loc>http://4aprilie1944.ro/article/2019/12/16/alexandru-arma-ziua-in0care-s_a_dezlantuit_infernul/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2019-12-15/</loc>
+    <loc>http://4aprilie1944.ro/article/2019/12/15/alexandru-arma-ultimele-avertismente/</loc>
     <lastmod>2019-12-15T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/2019/12/15/alexandru-arma-ultimele-avertismente/</loc>
-    <lastmod>2019-12-15T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/tags/2019-12-14/</loc>
-    <lastmod>2019-12-14T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/articles/2019/12/14/alexandru-arma-bucurestiul-dupa-marele-bombardament-din-4-aprilie-1944/</loc>
+    <loc>http://4aprilie1944.ro/article/2019/12/14/alexandru-arma-bucurestiul-dupa-marele-bombardament-din-4-aprilie-1944/</loc>
     <lastmod>2019-12-14T12:00:00+00:00</lastmod>
   </url>
   
@@ -63,87 +43,152 @@
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2019-12-13/</loc>
+    <loc>http://4aprilie1944.ro/article/2019/12/13/alexandru-arma-4-aprilie-1944-primul-bombardament-american-asupra-bucurestiului/</loc>
     <lastmod>2019-12-13T10:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/2019/12/13/alexandru-arma-4-aprilie-1944-primul-bombardament-american-asupra-bucurestiului/</loc>
-    <lastmod>2019-12-13T10:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/tags/2019-04/</loc>
+    <loc>http://4aprilie1944.ro/articles/2019-04/</loc>
     <lastmod>2019-04-04T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2019-04-04/</loc>
+    <loc>http://4aprilie1944.ro/article/2019/04/04/alexandru-amititeloaie-4-aprilie-1944-o-zi-care-nu-trebuie-uitata/</loc>
     <lastmod>2019-04-04T11:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/2019/04/04/alexandru-amititeloaie-4-aprilie-1944-o-zi-care-nu-trebuie-uitata/</loc>
-    <lastmod>2019-04-04T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/tags/2014/</loc>
+    <loc>http://4aprilie1944.ro/articles/2014-04/</loc>
     <lastmod>2014-04-04T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2014-04/</loc>
+    <loc>http://4aprilie1944.ro/article/2014/04/04/antena3-70-de-ani-de-la-bombardarea-bucurestiului/</loc>
     <lastmod>2014-04-04T15:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2014-04-04/</loc>
-    <lastmod>2014-04-04T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/articles/2014/04/04/antena3-70-de-ani-de-la-bombardarea-bucurestiului/</loc>
-    <lastmod>2014-04-04T15:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/tags/2014-03/</loc>
+    <loc>http://4aprilie1944.ro/articles/2014-03/</loc>
     <lastmod>2014-03-30T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2014-03-30/</loc>
+    <loc>http://4aprilie1944.ro/article/2014/03/30/dinu-c-giurescu-secvential-bombardarea-bucurestiului-din-4-aprilie-1944/</loc>
     <lastmod>2014-03-30T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/2014/03/30/dinu-c-giurescu-secvential-bombardarea-bucurestiului-din-4-aprilie-1944/</loc>
-    <lastmod>2014-03-30T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://4aprilie1944.ro/tags/2011/</loc>
+    <loc>http://4aprilie1944.ro/articles/2011-12/</loc>
     <lastmod>2011-12-22T17:30:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2011-12/</loc>
+    <loc>http://4aprilie1944.ro/article/2011/12/22/ioan-scurtu-4-aprilie-1944-nu-trebuie-uitat/</loc>
     <lastmod>2011-12-22T17:30:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/tags/2011-12-22/</loc>
-    <lastmod>2011-12-22T17:30:36+00:00</lastmod>
+    <loc>http://4aprilie1944.ro/album/</loc>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/2011/12/22/ioan-scurtu-4-aprilie-1944-nu-trebuie-uitat/</loc>
-    <lastmod>2011-12-22T17:30:36+00:00</lastmod>
+    <loc>http://4aprilie1944.ro/albums/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/biserica-din-bulevardul-nicolae-titulescu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/bulevardul-dinicu-golescu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/calea-grivitei/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/calea-plevnei/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/calea-victoriei/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/cartierul-cotroceni/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/cimitirul-sfanta-vineri/</loc>
   </url>
   
   <url>
     <loc>http://4aprilie1944.ro/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/victime/cimitirul-calvin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/albums/daune-materiale/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/albums/daune-victime/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/gara-de-nord/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/hotelul-ambasador/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/hotelurile-splendid-si-athenee-palace/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/albums/inamic-diverse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/albums/inamic-monumente/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/legatia-argentinei/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/inamic/diverse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/palatul-regal/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/inamic/monumente/parcul-cismigiu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/inamic/monumente/parcul-kiseleff/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/piata-matache-macelaru/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/album/daune/materiale/strada-jules-michelet/</loc>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/tags/</loc>
   </url>
   
 </urlset>

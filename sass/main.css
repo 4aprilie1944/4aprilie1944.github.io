@@ -7244,3 +7244,14 @@ h1, h2, h3, h4, h5, h6 {
 
 .back-to-cite {
   font-weight: bold; }
+
+.blog-sidebar .carousel-control-prev,
+.blog-sidebar .carousel-control-next {
+  opacity: 100%; }
+
+.blog-sidebar .carousel-item img {
+  min-height: 333px;
+  max-height: 333px; }
+
+.blog-post-list .carousel-item img {
+  max-height: 600px; }
