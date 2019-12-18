@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/</loc>
+    <loc>http://4aprilie1944.ro/article/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/article/</loc>
+    <loc>http://4aprilie1944.ro/articles/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
@@ -39,6 +39,11 @@
   
   <url>
     <loc>http://4aprilie1944.ro/contact/</loc>
+    <lastmod>2019-12-13T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/troita/</loc>
     <lastmod>2019-12-13T12:00:00+00:00</lastmod>
   </url>
   
