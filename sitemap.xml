@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/article/</loc>
+    <loc>http://4aprilie1944.ro/articles/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/articles/</loc>
+    <loc>http://4aprilie1944.ro/article/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
@@ -44,6 +44,21 @@
   
   <url>
     <loc>http://4aprilie1944.ro/contact/</loc>
+    <lastmod>2019-12-13T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/istoric/</loc>
+    <lastmod>2019-12-13T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/necrolog/</loc>
+    <lastmod>2019-12-13T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://4aprilie1944.ro/relatari/</loc>
     <lastmod>2019-12-13T12:00:00+00:00</lastmod>
   </url>
   
@@ -98,11 +113,11 @@
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/album/</loc>
+    <loc>http://4aprilie1944.ro/albums/</loc>
   </url>
   
   <url>
-    <loc>http://4aprilie1944.ro/albums/</loc>
+    <loc>http://4aprilie1944.ro/album/</loc>
   </url>
   
   <url>
