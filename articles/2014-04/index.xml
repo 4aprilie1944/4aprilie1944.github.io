@@ -19,7 +19,9 @@
       <guid>http://4aprilie1944.ro/article/2014/04/04/antena3-70-de-ani-de-la-bombardarea-bucurestiului/</guid>
       <description>&lt;p&gt;În urmă cu exact 70 de ani, bucureştenii descopereau ce înseamnă să stea sub o ploaie de bombe. 300 de bombardiere americane şi-au lansat încărcătura mortală asupra Capitalei, în după-amiaza zilei de 4 aprilie 1944, cel mai crunt bombardament la care a fost supus vreodată Bucureştiul.&lt;/p&gt;
 
-&lt;iframe width=&#34;100%&#34; height=&#34;410&#34; src=&#34;https://www.youtube.com/embed/s_dCwQAiS18&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;div class=&#34;embed-responsive embed-responsive-16by9&#34;&gt;
+  &lt;iframe class=&#34;embed-responsive-item&#34; src=&#34;https://www.youtube.com/embed/s_dCwQAiS18&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 </description>
     </item>
     
