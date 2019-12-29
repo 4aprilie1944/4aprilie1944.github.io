@@ -9467,6 +9467,12 @@ h1, h2, h3, h4, h5, h6 {
 .blog-post-list .carousel-item img {
   max-height: 600px; }
 
+.blog-main .report-image {
+  float: left;
+  margin-right: 1rem; }
+  .blog-main .report-image img {
+    max-width: 150px; }
+
 .carousel .carousel-caption {
   z-index: 10; }
 
