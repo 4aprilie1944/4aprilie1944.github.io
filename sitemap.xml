@@ -63,12 +63,12 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/article/</loc>
+    <loc>https://4aprilie1944.ro/articles/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/articles/</loc>
+    <loc>https://4aprilie1944.ro/article/</loc>
     <lastmod>2019-12-16T12:00:00+00:00</lastmod>
   </url>
   
@@ -183,6 +183,22 @@
   </url>
   
   <url>
+    <loc>https://4aprilie1944.ro/albums/04-04-1944/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/albums/15-04-1944/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/albums/21-04-1944/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/albums/24-04-1944/</loc>
+  </url>
+  
+  <url>
     <loc>https://4aprilie1944.ro/albums/</loc>
   </url>
   
@@ -191,31 +207,43 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/biserica-din-bulevardul-nicolae-titulescu/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/biserica-din-bulevardul-nicolae-titulescu/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/bucuresti/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/bucuresti/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/bulevardul-dinicu-golescu/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/bulevardul-dinicu-golescu/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/calea-grivitei/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/calea-grivitei/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/calea-plevnei/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/calea-plevnei/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/calea-victoriei/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/calea-victoriei/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/cartierul-cotroceni/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/cartierul-cotroceni/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/album/24-04-1944/cartierul-filantropia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/album/24-04-1944/cartierul-grivita/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/album/21-04-1944/cartierul-tei/</loc>
   </url>
   
   <url>
@@ -223,19 +251,15 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/victime/cimitirul-calvin/</loc>
+    <loc>https://4aprilie1944.ro/album/cimitirul-calvin/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/cimitirul-sfanta-vineri/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/cimitirul-sfanta-vineri/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/albums/daune-materiale/</loc>
-  </url>
-  
-  <url>
-    <loc>https://4aprilie1944.ro/albums/daune-victime/</loc>
+    <loc>https://4aprilie1944.ro/albums/cimitirul-calvin/</loc>
   </url>
   
   <url>
@@ -243,15 +267,15 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/gara-de-nord/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/gara-de-nord/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/hotelul-ambasador/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/hotelul-ambasador/</loc>
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/hotelurile-splendid-si-athenee-palace/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/hotelurile-splendid-si-athenee-palace/</loc>
   </url>
   
   <url>
@@ -263,7 +287,7 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/legatia-argentinei/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/legatia-argentinei/</loc>
   </url>
   
   <url>
@@ -271,7 +295,11 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/palatul-regal/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/palatul-regal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/album/24-04-1944/parc-domenii/</loc>
   </url>
   
   <url>
@@ -283,7 +311,7 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/piata-matache-macelaru/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/piata-matache-macelaru/</loc>
   </url>
   
   <url>
@@ -291,11 +319,19 @@
   </url>
   
   <url>
-    <loc>https://4aprilie1944.ro/album/daune/materiale/strada-jules-michelet/</loc>
+    <loc>https://4aprilie1944.ro/album/04-04-1944/strada-jules-michelet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/album/15-04-1944/strada-martisor/</loc>
   </url>
   
   <url>
     <loc>https://4aprilie1944.ro/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://4aprilie1944.ro/album/24-04-1944/victime/</loc>
   </url>
   
 </urlset>
