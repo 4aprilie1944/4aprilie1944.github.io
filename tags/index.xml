@@ -5,10 +5,6 @@
     <link>https://4aprilie1944.ro/tags/</link>
     <description>Recent content in Tags on 4 aprilie 1944</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ro</language>
-    
-	<atom:link href="https://4aprilie1944.ro/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ro</language><atom:link href="https://4aprilie1944.ro/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
