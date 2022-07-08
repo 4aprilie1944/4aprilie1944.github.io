@@ -9494,3 +9494,19 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     min-width: 100%;
     height: 500px; }
+
+.bnr-table th {
+  background: #343a40;
+  color: #f7f7f7; }
+
+.bnr-table th,
+.bnr-table td {
+  padding: 0 4px 0 4px;
+  border: 1px solid #AAA !important;
+  font-size: small; }
+
+.bnr-table td:first-of-type {
+  text-align: right; }
+
+.bnr-table td:last-of-type {
+  white-space: nowrap; }
