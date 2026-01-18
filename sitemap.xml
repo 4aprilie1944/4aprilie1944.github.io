@@ -8,10 +8,10 @@
     <loc>https://4aprilie1944.ro/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://4aprilie1944.ro/articles/</loc>
+    <loc>https://4aprilie1944.ro/article/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://4aprilie1944.ro/article/</loc>
+    <loc>https://4aprilie1944.ro/articles/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://4aprilie1944.ro/tags/generalul-radu-theodoru/</loc>
@@ -358,9 +358,9 @@
   </url><url>
     <loc>https://4aprilie1944.ro/albums/24-04-1944/</loc>
   </url><url>
-    <loc>https://4aprilie1944.ro/albums/</loc>
-  </url><url>
     <loc>https://4aprilie1944.ro/album/</loc>
+  </url><url>
+    <loc>https://4aprilie1944.ro/albums/</loc>
   </url><url>
     <loc>https://4aprilie1944.ro/album/04-04-1944/biserica-din-bulevardul-nicolae-titulescu/</loc>
   </url><url>
@@ -426,9 +426,9 @@
   </url><url>
     <loc>https://4aprilie1944.ro/album/15-04-1944/strada-martisor/</loc>
   </url><url>
-    <loc>https://4aprilie1944.ro/albums/victime/</loc>
-  </url><url>
     <loc>https://4aprilie1944.ro/album/24-04-1944/victime/</loc>
+  </url><url>
+    <loc>https://4aprilie1944.ro/albums/victime/</loc>
   </url><url>
     <loc>https://4aprilie1944.ro/album/victime/bucuresti/</loc>
   </url>
